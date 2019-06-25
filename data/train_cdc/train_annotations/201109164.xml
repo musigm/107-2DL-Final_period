@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201109164.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>299</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tire</name>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>178</ymin>
+			<xmax>279</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>351</xmin>
+			<ymin>167</ymin>
+			<xmax>386</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

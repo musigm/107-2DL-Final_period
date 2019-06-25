@@ -1,0 +1,17 @@
+<annotation>
+	<filename>2016050512.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>254</ymin>
+			<xmax>319</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

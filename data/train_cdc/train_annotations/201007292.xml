@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201007292.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>99</ymin>
+			<xmax>271</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>38</ymin>
+			<xmax>210</xmax>
+			<ymax>98</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>150</ymin>
+			<xmax>282</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,35 @@
+<annotation>
+	<filename>201408131.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>103</ymin>
+			<xmax>345</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>229</ymin>
+			<xmax>135</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>61</ymin>
+			<xmax>335</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

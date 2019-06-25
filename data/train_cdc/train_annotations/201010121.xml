@@ -1,0 +1,26 @@
+<annotation>
+	<filename>201010121.jpg</filename>
+	<size>
+		<width>400</width>
+		<height>301</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bottle</name>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>42</ymin>
+			<xmax>280</xmax>
+			<ymax>84</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<bndbox>
+			<xmin>259</xmin>
+			<ymin>83</ymin>
+			<xmax>285</xmax>
+			<ymax>107</ymax>
+		</bndbox>
+	</object>
+	</annotation>

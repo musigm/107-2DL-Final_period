@@ -1,0 +1,35 @@
+<annotation>
+	<filename>2010091036.jpg</filename>
+	<size>
+		<width>639</width>
+		<height>477</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bowl</name>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>143</ymin>
+			<xmax>95</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bucket</name>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>48</ymin>
+			<xmax>639</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plastic_bag</name>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>99</ymin>
+			<xmax>639</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>
